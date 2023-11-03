@@ -1,5 +1,8 @@
 ## Lautaro Joaquin Fonseca
 
+- a) ALFA podra ver los datos cargados por otros solo si estan mergeados al repositorio, y si este hizo un pull con los commits que contienen dichos datos
+- b) Si ALFA agrega un archivo, los demas integrantes podran verlo solo si ALFA lo pushea al repositorio, y los demas hacen un pull
+
 ## Belen Funtanillas
 
 ## German Deneka
