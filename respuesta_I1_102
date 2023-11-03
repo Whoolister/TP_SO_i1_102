@@ -3,6 +3,8 @@
 - a) ALFA podra ver los datos cargados por otros solo si estan mergeados al repositorio, y si este hizo un pull con los commits que contienen dichos datos
 - b) Si ALFA agrega un archivo, los demas integrantes podran verlo solo si ALFA lo pushea al repositorio, y los demas hacen un pull
 
-## Belen Funtanillas
-
+## Belen Funtanillas (ausente responde German Deneka)
+- c) Si BETTA agrega un archivo desde su repositorio local, al hacer push todos los integrantes lo pueden ver. Para que se pueda ver en el repo local de cada uno, debe hacerse un pull.
+- d) Nos comunicamos mediante grupo de WhatsApp, Discord y la solapa de Proyects para organizar las tareas de cada participante.
 ## German Deneka
+- e) La mejor forma de comunicarse dentro de GitHub es a traves de la solapa de Proyects, la solapa de Issues y mediante los mensajes de los commits.
